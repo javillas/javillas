@@ -35,7 +35,6 @@
   </head>
 
   <body data-spy="scroll" data-offset="0" data-target="#nav">
-    <p>Some text</p>
     <!-- Static navbar -->
     <?php 
     include 'includes/nav.php';
